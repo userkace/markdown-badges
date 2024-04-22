@@ -7,7 +7,7 @@
 # Awesome Badges <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 > A curated list of Badges for your next Project.
-> <br>
+<br>
 
 # Usage
 #### **To use a badge:**
@@ -16,10 +16,11 @@
 3. Copy the appropriate `link` element and paste it to `![name](link)` in your Markdown file (e.g. README.md)
 - note. `links` with `{placeholder}` must be replaced.
 
-
 #### **Contributing:**
 
 Please take a quick look at the [contribution guidelines](https://github.com/Envoy-VC/Badges-for-GitHub/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/Envoy-VC/Badges-for-GitHub/graphs/contributors); you rock!
+
+#### **Table of Contents:**
 
 - [Awesome Badges ](#awesome-badges-) - [**Contributing:**](#contributing)
   - [📱 Contact](#-contact)
@@ -30,7 +31,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
   - [📝 Blog](#-blog)
   - [🎞 Streaming](#-streaming)
   - [🚀 Skills](#-skills)
-- [🔔 Tests](#-tests)
+  - [🔔 Tests](#-tests)
   - [💻 Workspace Specs](#-workspace-specs)
   - [🎮 Games](#-games)
   - [❤ Funding](#-funding)
@@ -58,11 +59,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
   - [🥅 Other](#-other)
   - [⏱️ Workflow Platforms](#️-workflow-platforms)
   - [🚗🚗Car](#car)
-- [Maintained](#maintained)
-- [📈📈Website Stats](#website-stats)
-- [Feedback](#feedback)
-- [Made with](#made-with)
-- [GitHub Stats](#github-stats)
+  - [Maintained](#maintained)
+  - [📈📈Website Stats](#website-stats)
+  - [Feedback](#feedback)
+  - [Made with](#made-with)
+  - [GitHub Stats](#github-stats)
   - [Contributors](#contributors)
 
 <br>
