@@ -1260,6 +1260,13 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 <table>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/userkace>
+            <img src=https://avatars.githubusercontent.com/u/101122530?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=kervin Chainani/>
+            <br />
+            <sub style="font-size:14px"><b>userkace</b></sub>
+        </a>
+    </td>   
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Envoy-VC>
             <img src=https://avatars.githubusercontent.com/u/65389981?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vedant Chainani/>
             <br />
@@ -1294,15 +1301,15 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
             <sub style="font-size:14px"><b>Daren Card</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/BicaBenedicto>
             <img src=https://avatars.githubusercontent.com/u/87337551?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gabriel Pereira Benedicto/>
             <br />
             <sub style="font-size:14px"><b>Gabriel Pereira Benedicto</b></sub>
         </a>
-    </td>
-</tr>
-<tr>
+    </td>   
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Milo40>
             <img src=https://avatars.githubusercontent.com/u/33132706?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=PF1×3R/>
@@ -1331,5 +1338,36 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
             <sub style="font-size:14px"><b>Stefan Heinz</b></sub>
         </a>
     </td>
+     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/valentinesamuel>
+            <img src=https://avatars.githubusercontent.com/u/67756784?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Valentine Samuel/>
+            <br />
+            <sub style="font-size:14px"><b>Valentine Samuel</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Til0r>
+            <img src=https://avatars.githubusercontent.com/u/24627876?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Antonio Santangelo/>
+            <br />
+            <sub style="font-size:14px"><b>Antonio Santangelo</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/SAKET-SK>
+            <img src=https://avatars.githubusercontent.com/u/60461421?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Saket Khopkar/>
+            <br />
+            <sub style="font-size:14px"><b>Saket Khopkar</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/jameel-webdev>
+            <img src=https://avatars.githubusercontent.com/u/126319130?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jameel Ahmed/>
+            <br />
+            <sub style="font-size:14px"><b>Jameel Ahmed</b></sub>
+        </a>
+    </td>
+
 </tr>
 </table>

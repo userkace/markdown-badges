@@ -10,4 +10,10 @@
 
 ---
 
+# Additional Comments or Notes
+
+{here}
+
+___
+
 - [ ] I have read the [Contribution Guidelines]
