@@ -10,11 +10,11 @@
 > <br>
 
 # Usage
-To use a badge:
-- Via GitHub
-    1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
-    2. Enter the name of the badge you need.
-    3. Copy the appropriate `link` element and paste it to `![name](link)` in your Markdown file (e.g. README.md)
+#### **To use a badge:**
+1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
+2. Enter the name of the badge you need.
+3. Copy the appropriate `link` element and paste it to `![name](link)` in your Markdown file (e.g. README.md)
+- note. `links` with `{placeholder}` must be replaced.
 
 
 #### **Contributing:**
