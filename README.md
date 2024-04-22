@@ -9,6 +9,14 @@
 > A curated list of Badges for your next Project.
 > <br>
 
+# Usage
+To use a badge:
+- Via GitHub
+    1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
+    2. Enter the name of the badge you need.
+    3. Copy the appropriate `link` element and paste it to `![name](link)` in your Markdown file (e.g. README.md)
+
+
 #### **Contributing:**
 
 Please take a quick look at the [contribution guidelines](https://github.com/Envoy-VC/Badges-for-GitHub/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/Envoy-VC/Badges-for-GitHub/graphs/contributors); you rock!
