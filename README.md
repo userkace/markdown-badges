@@ -1,11 +1,6 @@
 <img src="./assets/banner.gif"/>
 
----
-
-<br>
-
 # Awesome Badges <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-
 > A curated list of Badges for your next Project.
 <br>
 
@@ -18,7 +13,7 @@
 
 #### **Contributing:**
 
-Please take a quick look at the [contribution guidelines](https://github.com/Envoy-VC/Badges-for-GitHub/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/Envoy-VC/Badges-for-GitHub/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines](https://github.com/userkace/markdown-badges/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/userkace/markdown-badges/graphs/contributors); you rock!
 
 #### **Table of Contents:**
 
