@@ -2,7 +2,7 @@
 
 # Markdown Badges <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 > A curated list of Badges for your next Project.
-<br>
+![stars](<img src="https://m3-markdown-badges.vercel.app/stars/2/2/userkace/markdown-badges">)
 
 # Usage
 #### **To use a badge:**
