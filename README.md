@@ -1,7 +1,7 @@
 <img src="./assets/banner.png"/>
 
 # Markdown Badges <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-> A curated list of Badges for your next Project.
+> A curated list of Badges for your next Project or [Profile](https://www.github.com/userkace).
 <img src="https://m3-markdown-badges.vercel.app/stars/2/2/userkace/markdown-badges">
 
 # Usage
@@ -19,7 +19,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/use
 
 - [Awesome Badges ](#awesome-badges-) - [**Contributing:**](#contributing)
   - [📱 Contact](#-contact)
-  - [🤜🤛 Group](#-group)
+  - [🫂 Group](#-group)
   - [👨 Social](#-social)
   - [🛒 Store](#-store)
   - [💻 OS](#-os)
@@ -53,9 +53,9 @@ Please take a quick look at the [contribution guidelines](https://github.com/use
   - [🌐 Web Browsers](#-web-browsers)
   - [🥅 Other](#-other)
   - [⏱️ Workflow Platforms](#️-workflow-platforms)
-  - [🚗🚗Car](#car)
-  - [Maintained](#maintained)
-  - [📈📈Website Stats](#website-stats)
+  - [🚗 Car](#car)
+  - [🛠️ Maintained](#maintained)
+  - [📈 Website Stats](#website-stats)
   - [Feedback](#feedback)
   - [Made with](#made-with)
   - [GitHub Stats](#github-stats)
@@ -97,11 +97,11 @@ Wire | <img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&lo
 
 <br>
 
-## 🤜🤛 Group
+## 🫂 Group
 
 | Name | Badge | Link |
 | ----- | ----- | ----- |                   
-Slack | <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />    | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white` |
+Slack | <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />    | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white` |
 Discord | <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />                 | `https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white`                   |
 Microsoft Teams | <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white`   |
 Zoom | <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />                       | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`                         |
@@ -1095,7 +1095,7 @@ Crowdin | <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-th
 
 <br>
 
-## 🚗🚗Car
+## 🚗 Car
 
 | Name | Badge | Link |
 | ----- | ----- | ----- |
@@ -1121,7 +1121,7 @@ Audi | <img src="https://img.shields.io/badge/Audi-BB0A30?logo=audi&logoColor=ff
 
 <br>
 
-# Maintained
+# 🛠️ Maintained
 
 | Name | Badge | Link |
 | ----- | ----- | ----- |
@@ -1137,7 +1137,7 @@ Unmaintained | <img src="http://unmaintained.tech/badge.svg"/>                  
 
 <br>
 
-# 📈📈Website Stats
+# 📈 Website Stats
 
 | Name | Badge | Link |
 | ----- | ----- | ----- |
