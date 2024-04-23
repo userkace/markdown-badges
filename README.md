@@ -268,7 +268,7 @@ Wordpress | <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-th
 
 | Name | Badge | Link |
 | ----- | ----- | ----- |
-Amazon Prime| <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=Amazon%20Prime&logoColor=white" />   | `https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white`          |
+Amazon Prime | <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=Amazon%20Prime&logoColor=white" />   | `https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white`          |
 Crunchyroll | <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />         | `https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white`         |
 Facebook Gaming | <img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" /> | `https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white` |
 Hulu | <img src="https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white" />                       | `https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white`                       |
@@ -365,6 +365,7 @@ Symfony | <img src="https://img.shields.io/badge/Symfony-000?logo=symfony&logoCo
 NestJS| <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> | `https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white` |
 GraphQL | <img src="https://img.shields.io/badge/GraphQL-ea6fb8?style=for-the-badge&logo=graphQL&logoColor=white" /> | `https://img.shields.io/badge/GraphQL-ea6fb8?style=for-the-badge&logo=graphQL&logoColor=white` |
 Render | <img src="https://img.shields.io/badge/Render-E3E3E3?style=for-the-badge&logo=render&logoColor=333" /> | `https://img.shields.io/badge/Render-E3E3E3?style=for-the-badge&logo=render&logoColor=333` |
+
 <br>
 
 [🔝 Back to Top](#contents)
@@ -381,7 +382,7 @@ Jest | <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&lo
 Testing Library | <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/> | `https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red` |
 Mocha.js | <img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"/>                  | `https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown`                  |
 Chai.js | <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"/>                      | `https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red`                      |
-Sinon.js | <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/>                                  | `https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon`                                  |
+Sinon.js | <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/> | `https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon` |
 
 <br>
 
