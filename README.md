@@ -2,11 +2,11 @@
 
 # Markdown Badges <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 > A curated list of Badges for your next Project or [Profile](https://www.github.com/userkace). <br>
-<img src="https://m3-markdown-badges.vercel.app/stars/2/2/userkace/markdown-badges">
+<a href="https://www.github.com/userkace/markdown-badges"><img src="https://m3-markdown-badges.vercel.app/stars/2/2/userkace/markdown-badges"></a>
 
 # Usage
 #### **To use a badge:**
-1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
+1. Press `ctrl` + `f` on your keyboard, to bring out the search modal.
 2. Enter the name of the badge you need.
 3. Copy the appropriate `link` element and paste it to `![name](link)` in your Markdown file (e.g. README.md)
 - **note:** `links` with `{placeholder}` must be replaced accordingly.
