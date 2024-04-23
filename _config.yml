@@ -1,4 +1,7 @@
-remote_theme             : "chauff/cse-theme"
+remote_theme : "jekyll/minima"
+
+minima:
+  skin: dark
 
 plugins:
   - jekyll-remote-theme
