@@ -1,8 +1,19 @@
-remote_theme: benbalter/retlab
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark"
+
 plugins:
   - jekyll-remote-theme
-title: Markdown Badges
+  - jekyll-include-cache
+
+locale : "en-US"
+title: "Markdown Badges"
+title_separator : "-"
+
 relative_links:
   enabled: true
   collections: true
-description: A Curated List of Badges for GitHub Projects & Profiles
+  
+description: "A Curated List of Badges for GitHub Projects & Profiles"
+teaser: "./assets/banner.png"
+
+markdown: kramdown
