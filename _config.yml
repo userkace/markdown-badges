@@ -3,6 +3,9 @@ remote_theme : "jekyll/minima"
 minima:
   skin: dark
 
+header_pages:
+  - github.md
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
