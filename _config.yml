@@ -1,5 +1,4 @@
 remote_theme             : "chauff/cse-theme"
-minimal_mistakes_skin    : "dark"
 
 plugins:
   - jekyll-remote-theme
