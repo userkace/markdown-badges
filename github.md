@@ -1,5 +1,5 @@
 ---
 layout: page
-title: github
-permalink: https://www.github.com/userkace/markdown-badges
+title: Github
+url: https://www.github.com/userkace/markdown-badges
 ---
