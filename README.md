@@ -1255,7 +1255,7 @@ Star chart | <img src="https://starchart.cc/caarlos0/starcharts.svg"/>          
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a "href=https://github.com/Cubik65536">
+        <a href="https://github.com/Cubik65536">
             <img src="https://avatars.githubusercontent.com/u/72877496?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Qian Qian"‎/>
             <br />
             <sub style="font-size:14px"><b>Qian Qian "Cubik"‎</b></sub>
@@ -1315,7 +1315,7 @@ Star chart | <img src="https://starchart.cc/caarlos0/starcharts.svg"/>          
 </tr>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Til0r>
+        <a href="https://github.com/Til0r">
             <img src="https://avatars.githubusercontent.com/u/24627876?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Antonio Santangelo"/>
             <br />
             <sub style="font-size:14px"><b>Antonio Santangelo</b></sub>
