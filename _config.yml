@@ -4,7 +4,7 @@ minima:
   skin: dark
 
 header_pages:
-  - github.md
+  - about.md
 
 plugins:
   - jekyll-remote-theme
@@ -17,7 +17,7 @@ title_separator : "-"
 relative_links:
   enabled: true
   collections: true
-  
+
 description: "A Curated List of Badges for GitHub Projects & Profiles"
 teaser: "/assets/banner.png"
 
