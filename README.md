@@ -165,7 +165,8 @@ Stack Overflow | <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?st
 Connect | <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white" />              | `https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white`              |
 TikTok | <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />                       | `https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white`                       |
 Tumblr | <img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" />               | `https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white`               |
-Twitter | <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />                     | `https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white`                     |
+Twitter | <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />                     | `https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white`                     |
+X | <img src="https://img.shields.io/badge/x.com-000000?style=for-the-badge&logo=x&logoColor=white" />                     | `https://img.shields.io/badge/x.com-000000?style=for-the-badge&logo=x&logoColor=white`                     |
 XDA Developers | <img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" />     | `https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white`     |
 
 <br>
